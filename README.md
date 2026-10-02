@@ -43,12 +43,14 @@ I build AI products end to end: the agent, the platform under it, the UI on top.
       <br><sub>three.js · TypeScript · Blender CLI</sub>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://deck.kadal.cc">Deck</a></b>: my own presentation engine. MDX slides with a live audience room: presenter sync, follow/roam, polls, quizzes and drawing; exports to PDF, PNG and PPTX.
+      <a href="https://deck.kadal.cc"><img src="assets/deck.jpg" alt="deck: MDX slides, a live room, nothing for the audience to install"></a>
+      <br><b><a href="https://deck.kadal.cc">Deck</a></b>: my own presentation engine. MDX slides with a live audience room: presenter sync, follow/roam, polls, quizzes and drawing; exports to PDF, PNG and PPTX.
       <br><sub>React · Vite · Durable Objects with hibernating WebSockets</sub>
-      <br><br><b>Production work for Blush</b>: AI agents that chat with clients, coordinate dates and book calls, plus the CRM behind them. One fix took a booking query from 2.18M documents examined to 1,684.
     </td>
   </tr>
 </table>
+
+And in production for Blush: AI agents that chat with clients, coordinate dates and book calls, plus the CRM behind them. One fix took a booking query from 2.18M documents examined to 1,684.
 
 Most of my code lives in private repositories (employer and coursework), which is why the repo list here is short. I'm happy to walk through any of it.
 
