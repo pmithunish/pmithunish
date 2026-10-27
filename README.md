@@ -43,9 +43,9 @@ I build AI products end to end: the agent, the platform under it, the UI on top.
       <br><sub>three.js · TypeScript · Blender CLI</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://deck.kadal.cc"><img src="assets/deck.jpg" alt="deck: MDX slides, a live room, nothing for the audience to install"></a>
-      <br><b><a href="https://deck.kadal.cc">Deck</a></b>: my own presentation engine. MDX slides with a live audience room: presenter sync, follow/roam, polls, quizzes and drawing; exports to PDF, PNG and PPTX.
-      <br><sub>React · Vite · Durable Objects with hibernating WebSockets</sub>
+      <a href="https://deck.kadal.cc"><img src="assets/deck.jpg" alt="Kadal Deck: Build it. Rehearse it. Own the room."></a>
+      <br><b><a href="https://deck.kadal.cc">Kadal Deck</a></b>: Build it. Rehearse it. Own the room. My studio's first product, launched on Product Hunt on 27 Oct 2026: an AI assistant drafts the deck with you, narration and a teleprompter help you rehearse, your phone is the remote, and the audience joins a live room from their phones.
+      <br><sub>MDX · React · MCP · Durable Objects with hibernating WebSockets · open source (AGPL)</sub>
     </td>
   </tr>
 </table>
