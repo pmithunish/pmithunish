@@ -8,6 +8,7 @@ I build AI products end to end: the agent, the platform under it, the UI on top.
 - **Studying:** M.Tech in Artificial Intelligence at SRM (2025–27).
 - **Before:** 8 years across product companies and consulting, including leading a team of 8 building products for US clients.
 - **Looking for:** AI product engineering or senior full-stack roles, in Chennai or remote.
+- **Portfolio:** [pmithunish.com](https://pmithunish.com), a small 3D world you drive through.
 
 ### Things I've built, live
 
@@ -62,6 +63,24 @@ AI-native: I run coding agents in parallel behind hard verification gates (typec
 
 TypeScript · React · Node / Bun · Hono · Effect · PostgreSQL · Redis · Cloudflare (Workers, D1, Durable Objects, R2) · LLM APIs, agents & evals · PyTorch · ONNX · Python · Rust
 
-### Reach me
+### Find me
 
-[LinkedIn](https://www.linkedin.com/in/pmithunish/) · [pmithunish@gmail.com](mailto:pmithunish@gmail.com) · [kadal.cc](https://kadal.cc)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://pmithunish.com"><img src="assets/pmithunish.jpg" alt="pmithunish.com: a 3D portfolio you can drive"></a>
+      <br><b><a href="https://pmithunish.com">pmithunish.com</a></b>: my portfolio as a small 3D world. Drive a Cybertruck through my career, products and live demos, and leave a whisper for the next visitor.
+      <br><sub>three.js (WebGPU) · TypeScript · Durable Objects · Workers AI moderation · built on Bruno Simon's open-source folio-2025</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Work</b>
+      <br><a href="https://www.linkedin.com/in/pmithunish/">LinkedIn</a> · <a href="mailto:pmithunish@gmail.com">pmithunish@gmail.com</a> · <a href="https://kadal.cc">Kadal</a>, my studio
+      <br><br><b>Social</b>
+      <br><a href="https://x.com/pmithunish">X</a> · <a href="https://bsky.app/profile/pmithunish.com">Bluesky</a> · <a href="https://mastodon.social/@pmithunish">Mastodon</a> · <a href="https://www.threads.com/@pmithunish">Threads</a> · <a href="https://www.instagram.com/pmithunish/">Instagram</a> · <a href="https://www.youtube.com/@pmithunish">YouTube</a>
+      <br><br><b>Writing and community</b>
+      <br><a href="https://dev.to/pmithunish">DEV</a> · <a href="https://news.ycombinator.com/user?id=pmithunish">Hacker News</a> · <a href="https://www.reddit.com/user/pmithunish/">Reddit</a> · <a href="https://app.daily.dev/pmithunish">daily.dev</a>
+      <br><br><b>Launches</b>
+      <br><a href="https://www.producthunt.com/@pmithunish">Product Hunt</a> · <a href="https://www.indiehackers.com/pmithunish">Indie Hackers</a> · <a href="https://peerlist.io/pmithunish">Peerlist</a>
+    </td>
+  </tr>
+</table>
