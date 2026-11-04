@@ -39,14 +39,21 @@ I build AI products end to end: the agent, the platform under it, the UI on top.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://kadal.cc"><img src="assets/kadal.jpg" alt="kadal.cc: a toon sea that links my apps"></a>
-      <br><b><a href="https://kadal.cc">kadal.cc</a></b>: a scroll-dive through a toon sea that links my apps. 54 procedurally generated Blender assets in ~1.3 MB.
-      <br><sub>three.js · TypeScript · Blender CLI</sub>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://deck.kadal.cc"><img src="assets/deck.jpg" alt="Kadal Deck: Build it. Rehearse it. Own the room."></a>
       <br><b><a href="https://deck.kadal.cc">Kadal Deck</a></b>: Build it. Rehearse it. Own the room. My studio's first product, launched on Product Hunt on 27 Oct 2026: an AI assistant drafts the deck with you, narration and a teleprompter help you rehearse, your phone is the remote, and the audience joins a live room from their phones.
       <br><sub>MDX · React · MCP · Durable Objects with hibernating WebSockets · open source (AGPL)</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://store.kadal.cc/?ref=github"><img src="assets/store.jpg" alt="Kadal Store: Print it. Play it. Make it yours."></a>
+      <br><b><a href="https://store.kadal.cc/?ref=github">Kadal Store</a></b>: my studio's shop for digital downloads: printable planners and stationery, music and sound effects, WebGL shaders, patterns and 3D. Paddle checkout, packs that reach everyone who already bought them, and downloads checked against what you own.
+      <br><sub>Cloudflare Workers · Hono · D1 · R2 · Paddle</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://kadal.cc"><img src="assets/kadal.jpg" alt="kadal.cc: a toon sea that links my apps" width="50%"></a>
+      <br><b><a href="https://kadal.cc">kadal.cc</a></b>: a scroll-dive through a toon sea that links my apps. 54 procedurally generated Blender assets in ~1.3 MB.
+      <br><sub>three.js · TypeScript · Blender CLI</sub>
     </td>
   </tr>
 </table>
