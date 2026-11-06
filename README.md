@@ -50,8 +50,13 @@ I build AI products end to end: the agent, the platform under it, the UI on top.
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <a href="https://kadal.cc"><img src="assets/kadal.jpg" alt="kadal.cc: a toon sea that links my apps" width="50%"></a>
+    <td width="50%" valign="top">
+      <a href="https://ui.kadal.cc"><img src="assets/ui.webp" alt="Kadal UI: Components you own."></a>
+      <br><b><a href="https://ui.kadal.cc">Kadal UI</a></b>: Components you own. Open source from my studio: a power-user data grid for React, built on TanStack Table v9 and shadcn/ui. One command copies the source into your project (<code>npx shadcn@latest add @kadal/data-grid</code>). MIT.
+      <br><sub>React · TanStack Table v9 · shadcn/ui · Base UI · TypeScript · open source (MIT)</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://kadal.cc"><img src="assets/kadal.jpg" alt="kadal.cc: a toon sea that links my apps"></a>
       <br><b><a href="https://kadal.cc">kadal.cc</a></b>: a scroll-dive through a toon sea that links my apps. 54 procedurally generated Blender assets in ~1.3 MB.
       <br><sub>three.js · TypeScript · Blender CLI</sub>
     </td>
