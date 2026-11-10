@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="I build AI products end to end, and ship them. LLM agents, real-time platforms, on-device machine learning." width="100%">
+<img src="assets/banner.png" alt="Mithunish Prabhakaran, AI product engineer in Chennai. pmithunish.com: a 3D portfolio you can drive." width="100%">
 
 ### Hi, I'm Mithunish 👋
 
